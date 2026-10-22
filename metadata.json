@@ -1,0 +1,6 @@
+{
+  "name": "SheBiz",
+  "description": "SheBiz is an empowering platform for women to discover opportunities, find mentors, learn skills, and grow their small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
